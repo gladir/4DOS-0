@@ -16,6 +16,13 @@ Voici la liste des différents fichiers proposés dans AppleDOS-0 :
 		</tr>
 </table>
 
+<h2>Langage humain</h3>
+
+Pour changer la langue des commandes, vous devez fixer la valeur de la variable d'environnement LANGUAGE, par exemple, pour passer à l'anglais :
+
+SET LANGUAGE=EN
+
+
 <h2>Compilation</h2>
 	
 Les fichiers Pascal n'ont aucune dépendances, il suffit de télécharger le fichier désiré et de le compiler avec Free Pascal avec la syntaxe de commande  :
